@@ -18,5 +18,11 @@
     <ClCompile Include="RowArray.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="labwork.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Task1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
