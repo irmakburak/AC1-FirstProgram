@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{23e24b4c-6edd-4efb-900a-28021463af8c}</ProjectGuid>
-    <RootNamespace>AC2SecondProgram</RootNamespace>
+    <ProjectGuid>{6df7c159-ace6-499c-975c-378940e33096}</ProjectGuid>
+    <RootNamespace>AC3ThirdProgram</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -123,7 +123,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Task1.cpp" />
+    <ClCompile Include="Std2DArray.cpp" />
+    <ClCompile Include="Std2DArrayApp.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Std2DArray.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
