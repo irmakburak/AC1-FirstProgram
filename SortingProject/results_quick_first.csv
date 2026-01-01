@@ -1,0 +1,13 @@
+Algorithm,InputType,Size,AverageTime(ns)
+QuickSortFirst,Random,10000,830866
+QuickSortFirst,Random,20000,1722266
+QuickSortFirst,Random,30000,2565033
+QuickSortFirst,Random,40000,3656100
+QuickSortFirst,Random,50000,4822733
+QuickSortFirst,Random,60000,5721266
+QuickSortFirst,Sorted,10000,40377966
+QuickSortFirst,Sorted,20000,146089933
+QuickSortFirst,Sorted,30000,344281266
+QuickSortFirst,Sorted,40000,646244400
+QuickSortFirst,Sorted,50000,1032173500
+QuickSortFirst,Sorted,60000,2777884433
